@@ -1,0 +1,25 @@
+#main{
+	background-color: lightgreen;
+	text-align: center;
+}
+
+#name{
+	text-align: center;
+	font-weight: bold;
+	font-size: 32px;
+	height: 40px;
+}
+
+#position{
+	text-align: center;
+	font-weight: normal;
+	font-size: 25px;
+	height: 200px;
+}
+
+.content-wrapper{
+	margin: auto;
+	background-color: white;
+	width: 500px
+	text-align: left;
+}
